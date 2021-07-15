@@ -41,12 +41,12 @@
     },
     "ALIVE_MSG": {
       "description": "Set Custom awake Message When entering .awake command.",
-      "value": "",
+      "value": "hi i am alive...",
       "required": true
     },
     "ALIVE_PHOTTO": {
       "description": "Let it be what it is(skip)..or you can change the link according to your convince..this link is useful for `.awake` command.",
-      "value": "https://telegra.ph/file/0d0fafe17acca1c51b42d.jpg",
+      "value": "https://telegra.ph/file/987616c1431910d706bad.jpg",
       "required": true
     },
     "DEFAULT_BIO": {
@@ -56,7 +56,7 @@
     },
     "PMPERMIT_PIC": {
       "description": "put here any telegraph media link for pmpermit custom pic.",
-      "value": "https://telegra.ph/file/ad8430d78a8e1adb3d8ea.jpg",
+      "value": "https://telegra.ph/file/987616c1431910d706bad.jpg",
       "required": true
     },
     "PM_PERMIT_GROUP_ID": {
@@ -189,7 +189,7 @@
     },
     "EMOJI_TO_DISPLAY_IN_HELP": {
       "description": "Set The emojies You Want to Add In Help Command You Can Add Multiple Emojies too!!",
-      "value": "📨",
+      "value": "🔥",
       "required": true
     },
     "SUDO_USERS": {
