@@ -66,7 +66,7 @@ FORK ON YOUR OWN RISK</h2>
 <div style="box-sizing: border-box;">
 Simply clone the repository and run the main file:</div>
 <div style="box-sizing: border-box;">
-<pre style="background-color: #f6f8fa; border-radius: 6px; box-sizing: border-box; font-family: SFMono-Regular, Consolas, &quot;Liberation Mono&quot;, Menlo, monospace; font-size: 13.6px; line-height: 1.45; margin-bottom: 16px; overflow-wrap: normal; overflow: auto; padding: 16px;">git clone https://github.com/hellboi-atul/hellboi-atul/
+<pre style="background-color: #f6f8fa; border-radius: 6px; box-sizing: border-box; font-family: SFMono-Regular, Consolas, &quot;Liberation Mono&quot;, Menlo, monospace; font-size: 13.6px; line-height: 1.45; margin-bottom: 16px; overflow-wrap: normal; overflow: auto; padding: 16px;">git clone https://github.com/Krish-zenitsu/Krish-zenitsu/
 <span style="box-sizing: border-box;">cd</span> Userbot
 virtualenv -p /usr/bin/python3 venv
 <span style="box-sizing: border-box;">.</span> ./venv/bin/activate
