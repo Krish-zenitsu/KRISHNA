@@ -64,3 +64,18 @@ async def _(event):
 		await event.edit("".join(deq))
 		deq.rotate(1)
     
+@borg.on(admin_cmd(pattern=r"goodnight"))
+
+async def _(event):
+
+	if event.fwd_from:		return
+
+	deq = deque(list("♥ Goodnight and as long as your heart is true, may the sweetest of dreams always be with you. ♥ Good night and sweet dreams to my beautiful goddess who I love so much. ♥ I realize every night how much I love you and I wish you a good sleep so tight. ... I'm here right now just wishing you the sweetest of good nights."))
+
+	for _ in range(20):
+
+		await asyncio.sleep(1)
+
+		await event.edit("".join(deq))
+
+		deq.rotate(1)
