@@ -30,7 +30,7 @@
     },
 
     "ALIVE_NAME": {
-      "description": "Fill your Full name or Username like @hellboi_atul.",
+      "description": "Fill your Full name or Username like @Broken_Zenitsu.",
       "value": "",
       "required": true
     },
